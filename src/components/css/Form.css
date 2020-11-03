@@ -1,0 +1,24 @@
+.todos-header {
+  display: flex;
+  justify-content: space-between;
+  background: #ffffff;
+  padding: 14px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.todos-header-input {
+  border: none;
+  border-radius: 0;
+  outline: none;
+  font-size: 16px;
+}
+
+.todos-header-plus {
+  font-size: 16px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 0;
+}
